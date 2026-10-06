@@ -1,0 +1,11 @@
+# Recordings, cut audio and transcripts hold your meeting's content. Never commit them.
+*.mp3
+*.m4a
+*.wav
+*.mp4
+chunks/
+reference_clips/
+transcript.md
+progress.json
+__pycache__/
+.env
